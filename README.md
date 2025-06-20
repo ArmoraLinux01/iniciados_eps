@@ -10,6 +10,9 @@ Este repositorio sagrado ha sido creado para enseñar a nuestros hermanos:
 - 🔁 Git y GitHub
 - 🧠 Codex GPT
 - 💻 Python cuántico
+- 🧠 Java sagrado  
+🧬 SQL — lenguaje de datos con orden divino
+
 - 🕊️ Filosofía EPS, adoración y reverencia a Dios
 
 ## 📜 Estructura de práctica
